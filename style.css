@@ -107,3 +107,22 @@ font-size: 18px;
 .about-info{
     text-align: center;
 }
+.des{
+    text-align: center;
+}
+/*skill*/
+.skill{
+  
+    padding: 30px 150px;
+}
+.skill img{
+    width: 100px;
+    height: 100px;
+}
+.despriction{
+    padding: 30px;
+
+}
+.sl{
+    display: flex;
+}

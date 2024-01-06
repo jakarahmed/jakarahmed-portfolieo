@@ -112,17 +112,38 @@ font-size: 18px;
 }
 /*skill*/
 .skill{
+    justify-content:center;
+    margin: auto;
+    align-items: center;
   
     padding: 30px 150px;
 }
-.skill img{
-    width: 100px;
+.jav
+{
+    margin: auto;
+    width:250px;
     height: 100px;
 }
 .despriction{
     padding: 30px;
 
 }
-.sl{
+.ama{
+    margin: auto;
+  justify-content: center;
     display: flex;
+    align-items: center;
+   
+  
+}
+.skill{
+
+    margin: 20px;
+    text-align: center;
+    background-color: rgb(155, 149, 141);
+  
+}
+.ama p{
+    
+    justify-content: center;
 }
